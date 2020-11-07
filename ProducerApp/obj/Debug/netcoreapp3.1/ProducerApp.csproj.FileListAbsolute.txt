@@ -1,0 +1,16 @@
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp.deps.json
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp.runtimeconfig.json
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp.runtimeconfig.dev.json
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/ProducerApp.pdb
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.csprojAssemblyReference.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.AssemblyInfoInputs.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.AssemblyInfo.cs
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.csproj.CopyComplete
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.pdb
+/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/obj/Debug/netcoreapp3.1/ProducerApp.genruntimeconfig.cache

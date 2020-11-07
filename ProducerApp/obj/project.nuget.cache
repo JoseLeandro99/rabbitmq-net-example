@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbE1qGpA0+hMBGhET15ZZ+chgbME094cloa/O0yEYcOFAVlYc8F6RhGAfgd9NMStX2guRTOn6JKnT3Vx8QNZmA==",
+  "success": true,
+  "projectFilePath": "/home/leandro/Desktop/dotnet/rabbitmq/ProducerApp/ProducerApp.csproj",
+  "expectedPackageFiles": [
+    "/home/leandro/.nuget/packages/rabbitmq.client/6.2.1/rabbitmq.client.6.2.1.nupkg.sha512",
+    "/home/leandro/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/home/leandro/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp.deps.json
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp.runtimeconfig.json
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp.runtimeconfig.dev.json
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/ConsumerApp.pdb
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.csprojAssemblyReference.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.AssemblyInfoInputs.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.AssemblyInfo.cs
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.csproj.CoreCompileInputs.cache
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.csproj.CopyComplete
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.dll
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.pdb
+/home/leandro/Desktop/dotnet/rabbitmq/ConsumerApp/obj/Debug/netcoreapp3.1/ConsumerApp.genruntimeconfig.cache
